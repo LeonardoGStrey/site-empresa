@@ -1,5 +1,17 @@
-*{
-    pad: 0;
-    margin: 0;
-    background-color: aqua;
+header{
+    width: 100%;
+    height: 400px;
+    display: block;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQTv2Sllgav2nVtxlMpmi5uVeyf-NhcUDw_w&usqp=CAU);    
+    background-position: 400px;
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+header h1{
+    text-align: center;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    color: white;
 }
